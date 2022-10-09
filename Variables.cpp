@@ -12,7 +12,21 @@ int main()
 
     number2=30;
 
-    cout<<"The number 2 value is="<< number2;
+    cout<<"The number 2 value is="<< number2 ;
+
+
+    double my_double=1.678;
+
+    cout<<"\nOur double value is="<<my_double;
+
+    char char_value='D';
+    cout<<"\nOur character value is="<<char_value;
+
+    string string_value="IRELAND";
+    cout<<"\nOur string value is="<<string_value;
+
+
+
 
     return 0;
 

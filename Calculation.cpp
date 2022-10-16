@@ -15,11 +15,17 @@ int main()
 
 
 
-    double a=1.5,b=3.4;  // Here is a conflicting between this double and integer
+//    double a=1.5,b=3.4;  // Here is a conflicting between this double and integer
     /*
     here we declare same  variable for  double and integer
 
     */
+
+    int f,j,h;
+    f=j=h=1;
+    cout<<"\n\nOur new result for a,b,c is="<<f+j+h;
+
+
 
 
 
